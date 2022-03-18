@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\SBCTest\\SBCTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\SBCTest\\SBCTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\SBCTest\\SBCTest.csproj",
+        "projectName": "SBCTest",
+        "projectPath": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\SBCTest\\SBCTest.csproj",
+        "packagesPath": "C:\\Users\\Forge-15\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\SBCTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Forge-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\ShuttleBusCentral\\ShuttleBusCentral.csproj": {
+                "projectPath": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\ShuttleBusCentral\\ShuttleBusCentral.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\ShuttleBusCentral\\ShuttleBusCentral.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\ShuttleBusCentral\\ShuttleBusCentral.csproj",
+        "projectName": "ShuttleBusCentral",
+        "projectPath": "C:\\Users\\Forge-15\\Source\\Repos\\ShuttleBusCentral\\ShuttleBusCentral\\ShuttleBusCentral.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
