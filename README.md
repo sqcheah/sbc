@@ -9,6 +9,8 @@ busbooking is a web app for third party bus provider. It uses PHP.
 
 ShuttleBusCentral is a C# application for the SBC admin.
 
+Database using MySQL
+
 Feature:
 - SBC Admin
 1. Manage Booking
