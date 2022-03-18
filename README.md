@@ -18,8 +18,8 @@ Feature:
 9. Manage Setting - (how many days before permit expiry to notify provider,mileage limit of bus to schedule manitenance) 
 
 - Bus Provider
-- View Booking
-- Manage Driver
-- Manage Profile
+1. View Booking
+2. Manage Driver
+3. Manage Profile
 
 
