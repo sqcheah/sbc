@@ -5,7 +5,7 @@ SBC will check if they have any bus available, else it will be assigned to any t
 
 This project has 2 application:
 
-busbooking is a web app for third party bus provider. It uses PHP.
+busbooking is a web app(mobile first) for third party bus provider. It uses PHP.
 
 ShuttleBusCentral is a C# application for the SBC admin.
 
