@@ -32,14 +32,14 @@ Demo Video
 
 Part 1: Client Server
 
-https://youtu.be/1idfaxuDdWA
+https://youtu.be/t9tj3QRive8
 
 Part 2: Web View
 
-https://youtu.be/AzV98Po2FbE
+https://youtu.be/-6fhWAXX25Y
 
 Part 3: Unit Testing
 
-https://youtu.be/b7XXZU6FjBM
+https://youtu.be/cdyhkkgZTGU
 
 
